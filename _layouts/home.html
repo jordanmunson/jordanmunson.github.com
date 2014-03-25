@@ -7,26 +7,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
     <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/main.css">
     <!-- syntax highlighting CSS -->
     <link rel="stylesheet" href="/css/syntax.css">
   </head>
 
   <body>
-    <div class="site">
-      <div class="header"><h1 class="title"><a href="/">{{ site.name }}</a></h1></div>
-      <div class="nav-bar">
-        <a class="nav-link" href="/blog">Blog</a>
-        <a class="nav-link" href="/cool-links">Cool Links</a>
-        <a class="nav-link" href="/friends">Friends</a>
-        <!-- <a class="nav-link" href="/now-playing">Now Playing</a> -->
-        <a class="nav-link" href="/about">About</a>
-        <a class="nav-link" href="/contact">Contact</a>
-      </div>
-      <div class="hero-vid">
-        {{ content }}
-      </div>
-    </div>
+      <header><h1 class="title"><a href="/">{{ site.name }}</a></h1></header>
+      <nav>
+        <ul>
+          <li><a href="/blog.html">Blog</a></li>
+          <li><a href="/cool-links.html">Cool Links</a></li>
+          <li><a href="/friends.html">Friends</a></li>
+          <!-- <li><a href="/now-playing">Now Playing</a></li> -->
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/contact.html">Contact</a></li>
+      </ul>
+     </nav>
+
+      {{ content }}
 
   </body>
 </html>
