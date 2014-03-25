@@ -1,4 +1,4 @@
-name: Jordan's Personal Site
+name: JordanMunson.me
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title
