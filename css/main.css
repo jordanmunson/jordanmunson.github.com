@@ -61,7 +61,12 @@ nav ul li a {
 .videocenter {
   margin: 3.5rem auto;
   width: 75rem;
-  height: 42.2rem;
+}
+
+.imagecenter {
+  margin: 3.5rem auto;
+  width: 30rem;
+  height: 30rem;
 }
 
 footer {
