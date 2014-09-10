@@ -6,7 +6,7 @@ categories: blog
 tags: update
 ---
 
-168 days. That's how many days it had been between updates to this site. For me, that's far too many days. When I decided I was going to build this site, I wanted something super crazy and over-the-top. Why wouldn't I? Turns out that was an incredibly overzealous idea, and ended up really turning me off from making ant updates since I felt like I was never making progress and the site would remain in a mostly sad state of affairs for quite a while.
+168 days. That's how many days it had been between updates to this site. For me, that's far too many days. When I decided I was going to build this site, I wanted something super crazy and over-the-top. Why wouldn't I? Turns out that was an incredibly overzealous idea, and ended up really turning me off from making any updates since I felt like I was never making progress and the site would remain in a mostly sad state of affairs for quite a while.
 
 In doing some reflection, it would seem that it's been a great learning experience, despite still being far from what I'd initially set out for (and still intend to do). Some initial takeaways:
 
