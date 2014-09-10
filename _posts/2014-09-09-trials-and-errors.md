@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trials and Errors"
-date:   2014-01-28 15:27:14
+date:   2014-09-09 22:27:14
 categories: blog
 tags: update
 ---
