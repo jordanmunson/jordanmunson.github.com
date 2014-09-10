@@ -17,6 +17,7 @@ body {
   background-color: #E4E4E4;
 }
 
+/*  Header section */
 header {
   padding: 2rem 0;
   margin: 0 auto;
@@ -33,6 +34,8 @@ header a {
   text-decoration: none;
   color: #F1F7E8;
 }
+
+/*  Nav bar */
 
 nav {
   background-color: #212121;
@@ -57,8 +60,10 @@ nav ul li a {
 
 nav ul li a {
   text-decoration: none;
-  color: #E0E0E0
+  color: #E0E0E0;
 }
+
+/*  Body content */
 
 div .content {
   padding-bottom: 1.5rem;
@@ -68,6 +73,13 @@ h2 {
   text-align: center;
   font-size: 2rem;
   line-height: 3rem;
+}
+
+.content {
+  margin: 0 auto;
+  line-height: 1.3em;
+  padding: 1.1rem;
+  max-width: 70rem;
 }
 
 .textcenter {
@@ -81,10 +93,20 @@ h2 {
   height: 30rem;
 }
 
+.boldtext {
+  font-weight: bold;
+}
+
+.italictext {
+  font-style: italic;
+}
+
 .spacer {
   width: 96rem;
   margin: 0 auto;
 }
+
+/* footer nonsense  */
 
 footer {
   position: fixed;
