@@ -5,17 +5,22 @@
 }
 
 html {
+  height: 100%;
   font-size:  62.5%;
 }
 
 body {
-  font-size: 1.6rem;
+  height: 100%;
+  padding-bottom: 1.5rem;
+  font-size: 1.2rem;
+  color: #0F0505;
+  background-color: #E4E4E4;
 }
 
 header {
-  padding: 5.4rem 0;
+  padding: 2rem 0;
   margin: 0 auto;
-  background-color: #5D0E19
+  background-color: #5D0E19;
 }
 
 header h1 {
@@ -34,22 +39,19 @@ nav {
   padding: 1rem 0;
 }
 
-nav ul,
-footer ul {
+nav ul {
   padding: 0;
   margin: 0;
   text-align: center;
 }
 
-nav ul li,
-footer ul li {
+nav ul li {
   display: inline-block;
   padding: 0 2rem;
   margin: 0 4rem;
 }
 
-nav ul li a,
-footer ul li a {
+nav ul li a {
   text-decoration: none;
 }
 
@@ -58,7 +60,17 @@ nav ul li a {
   color: #E0E0E0
 }
 
-.videocenter {
+div .content {
+  padding-bottom: 1.5rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+.textcenter {
   margin: 3.5rem auto;
   width: 75rem;
 }
@@ -69,17 +81,20 @@ nav ul li a {
   height: 30rem;
 }
 
+.spacer {
+  width: 96rem;
+  margin: 0 auto;
+}
+
 footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   background-color: #CACACA;
-  padding: 4.5rem 2.5rem;
+  padding: 1.5rem 1.5rem;
 }
 
-footer ul li {
-  font-size: 1.6rem;
-  color: #2A4C33;
-}
-
-footer ul li a {
-  text-decoration: underline;
+footer .text {
+  font-size: 1.2rem;
   color: #2A4C33;
 }
