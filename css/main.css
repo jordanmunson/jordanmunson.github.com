@@ -80,6 +80,13 @@ h2 {
   line-height: 3rem;
 }
 
+span .posttitle {
+  text-align: center;
+  margin-right: 1rem;
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
 .content {
   margin: 0 auto;
   line-height: 1.1em;
@@ -87,13 +94,19 @@ h2 {
   max-width: 70rem;
 }
 
+.postdate {
+  font-size: 1.2rem;
+  font-weight: lighter;
+  margin-left: 1rem;
+}
+
 .textcenter {
   margin: 3.5rem auto;
-  width: 75rem;
+  width: 70rem;
 }
 
 .imagecenter {
-  margin: 3.5rem auto;
+  margin: .5rem auto;
   width: 30rem;
   height: 30rem;
 }
