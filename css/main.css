@@ -94,6 +94,11 @@ span .posttitle {
   width: 70rem;
 }
 
+ul {
+  text-align: left;
+  margin-left: 2rem;
+}
+
 .postdate {
   font-size: 1.2rem;
   font-weight: lighter;
