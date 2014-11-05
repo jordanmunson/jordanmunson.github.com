@@ -19,3 +19,7 @@ Some special thanks for all their help on this site, both in advising and in emo
 - Jeff Vincent
 - Max Schnur
 - Mercer Smith-Looper
+
+Now I'm playing around with Codeship:
+
+[ ![Codeship Status for jordanmunson/jordanmunson.github.com](https://www.codeship.io/projects/2cbe1ba0-4734-0132-7a8f-06ef5ac94a6c/status)](https://www.codeship.io/projects/45517)
