@@ -9,7 +9,7 @@ url: "/2014-11-18-tries-and-tribulations-of-open-graph"
 image: "http://embed.wistia.com/deliveries/3f705c4e4c2ef9b70e6df638f9589b53619e1be0.bin"
 ---
 
-## "Oh, maybe I should implement Open Graph tags on my site so when people share links on Facebook, they look awesome!!!"
+### "Oh, maybe I should implement Open Graph tags on my site so when people share links on Facebook, they look awesome!!!"
 
 Awesome idea, Jordan. Too bad that's not as easy as it seems. First, I don't really know much of anything about Open Graph tags. Thankfully [Facebook's documentation](https://developers.facebook.com/docs/opengraph) is really good here, especially when trying to figure out images and what sizes they should be. Second, it turns out I knew _practically nothing_ about Jekyll frontmatter. This was an amazing crash course in setting this stuff up.
 
