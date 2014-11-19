@@ -5,7 +5,7 @@ date:   2014-11-18 15:27:14
 categories: blog
 tags: update
 description: "Implementing Open Graph tags on my site has had its fair share of struggles"
-url: "/2014-11-18-tries-and-tribulations-of-open-graph"
+url: "/2014-11-18-tries-and-tribulations-of-open-graph/"
 image: "http://embed.wistia.com/deliveries/3f705c4e4c2ef9b70e6df638f9589b53619e1be0.bin"
 ---
 
