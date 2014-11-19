@@ -4,6 +4,8 @@ title:  "Trials and Errors"
 date:   2014-09-09 22:27:14
 categories: blog
 tags: update
+description: "Part of learning is getting things wrong. Really, really wrong. That's totally okay (just don't leave off there)."
+url: "/2014-09-09-trials-and-errors/"
 ---
 
 168 days. That's how many days it had been between updates to this site. For me, that's far too many days. When I decided I was going to build this site, I wanted something super crazy and over-the-top. Why wouldn't I? Turns out that was an incredibly overzealous idea, and ended up really turning me off from making any updates since I felt like I was never making progress and the site would remain in a mostly sad state of affairs for quite a while.
