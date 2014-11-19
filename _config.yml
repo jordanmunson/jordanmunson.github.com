@@ -2,6 +2,8 @@ name: "JordanMunson.me"
 description: "Jordan Munson's work-in-progress Jekyll site."
 permalink: /:categories/:title
 url: "http://jordanmunson.me"
+author: "https://www.facebook.com/jordan.munson"
+
 
 markdown: redcarpet
 pygments: true
