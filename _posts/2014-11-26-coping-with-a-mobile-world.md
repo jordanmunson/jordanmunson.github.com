@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Coping with a mobile world"
-date:   2014-11-18 15:27:14
+title:  "Coping With A Mobile World"
+date:   2014-11-28 15:27:14
 categories: blog
 tags: update
 description: "I was tired of my site looking like butt on phones, so I sought to change that."
@@ -13,7 +13,7 @@ After writing and sharing my last post regarding my challenges in getting open g
 
 __It was time to get my shit in order.__
 
-I already had planned a bunch of improvements and enhancements to my personal site, but at that moment I vowed to make responsiveness and/or mobile friendliness top of the list. We do, after all, live in a world dominated by smart phones.
+I already had planned a bunch of improvements and enhancements to this site, but at that moment I vowed to make responsiveness and/or mobile friendliness top of the list. We do, after all, live in a world dominated by smart phones.
 
 __So what did that entail, exactly?__
 
@@ -29,7 +29,7 @@ Luckily a while back someone (who I am forgetting now) tipped me to something ca
 
 _So that's what I did._
 
-About four or so hours after throwing my old stylesheet straight into the garbage, I ended up with what you're seeing here. (As of November 26, 2014. Site subject to further change.). It still looks like butt, but at least it's _serviceable_ on mobile devices and weird browser dimensions.
+About four or so hours after throwing my old stylesheet straight into the garbage, I ended up with what you're seeing here. (As of November 26, 2014. Site subject to further change.) It still looks like butt, but at least it's _serviceable_ on mobile devices and weird browser dimensions.
 
 __So what's next?__
 
