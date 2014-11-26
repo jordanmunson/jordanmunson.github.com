@@ -15,11 +15,11 @@ There will be stuff here eventually. For now, though, it's a pretty rough work i
 
 ## Some special thanks for all their help on this site, both in advising and in emotional support:
 
-- James Zhang
-- Danielle Bushrow
-- Jeff Vincent
-- Max Schnur
-- Mercer Smith-Looper
+- [James Zhang](https://twitter.com/jamesfzhang)
+- [Danielle Bushrow](https://twitter.com/daniellebushrow)
+- [Jeff Vincent](https://twitter.com/jeffvincent)
+- [Max Schnur](https://twitter.com/MaxSchnur)
+- [Mercer Smith-Looper](https://twitter.com/mercenator)
 
 ## Now I'm playing around with Codeship:
 
