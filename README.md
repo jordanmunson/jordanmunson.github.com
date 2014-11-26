@@ -28,3 +28,7 @@ There will be stuff here eventually. For now, though, it's a pretty rough work i
 ## Some links I've found _super_ helpful along the way (beyond the regular Jekyll docs):
 
 [Adding open graph tags to Jekyll sites](http://davidensinger.com/2013/04/adding-open-graph-tags-to-jekyll/) by [David Ensinger](http://davidensinger.com/about/)
+
+## Things I'm using on my site that are pretty rad:
+
+[Grid](http://www.adamkaplan.me/grid/) by [Adam Kaplan](http://www.adamkaplan.me/)
