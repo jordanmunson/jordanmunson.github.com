@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<p><span class="posttitle">{{ page.title }}</span><span class="postdate">{{ page.date | date: "%B %-d, %Y"  }}</span></p>
+<div class="row clearfix">
+  <div class="column full"><h3>{{ page.title }}, posted {{ page.date | date: "%B %-d, %Y"  }}</h3></div>
+</div>
 
-<div class="post">
-{{ content }}
+<div class="row clearfix">
+  {{ content }}
 </div>

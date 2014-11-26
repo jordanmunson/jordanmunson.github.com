@@ -18,26 +18,24 @@
   </head>
 
   <body>
+        
+        <header >
+          <h1><a href="/">{{ page.title }}</a></h1>
+        </header>
 
-    <header><h1 class="title"><a href="/">{{ page.title }}</a></h1></header>
+          <div class="row clearfix nav">
+            <div class="column third"><a class="navlink" href="/">Home</a></div>
+            <div class="column third"><a class="navlink"href="/blog.html">Blog</a></div>
+            <div class="column third"><a class="navlink" href="/contact.html">Contact</a></div>
+          </div>
 
-    <nav>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/blog.html">Blog</a></li>
-        <li><a href="/contact.html">Contact</a></li>
-      </ul>
-    </nav>
-
-    <div class="content">
-       {{ content }}
-     </div>
-
-     <div class="spacer">&nbsp;</div>
-
-    <footer>
-      <div class="text">Haphazardly thrown together by Jordan Munson with the patient help from some friends. Check out <a href="https://github.com/jordanmunson/jordanmunson.github.com" >the code</a> if you like!</div>
-    </footer>
-
+        <div class="container grid ">
+           {{ content }}
+         </div>
+        <!--  Bring this back later
+        <footer>
+          <div class="column">Haphazardly thrown together by Jordan Munson with the patient help from some friends. Check out <a href="https://github.com/jordanmunson/jordanmunson.github.com" >the code</a> if you like!</div>
+        </footer>
+        -->
   </body>
 </html>
