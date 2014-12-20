@@ -47,5 +47,21 @@
           <div class="column">Haphazardly thrown together by Jordan Munson with the patient help from some friends. Check out <a href="https://github.com/jordanmunson/jordanmunson.github.com" >the code</a> if you like!</div>
         </footer>
         -->
+
+
+        <!-- Wistia GA integration code -->
+        <script src="http://fast.wistia.net/static/embed_shepherd-v1.js"></script>
+        <script>
+          wistiaEmbeds.onFind(function(video){
+            video.bind("play", function(){
+              ga('send', 'event', 'Video', 'Play', video.name());
+              return this.unbind;
+            }).bind("end", function(){
+              ga('send', 'event', 'Video', 'Complete', video.name());
+              return this.unbind;
+            });
+          });
+        </script>
+
   </body>
 </html>
