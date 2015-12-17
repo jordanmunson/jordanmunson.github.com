@@ -10,7 +10,6 @@ image: "http://embed.wistia.com/deliveries/42088c12fab5ce55bece68d7ec3b00cdc52e1
 ---
 
 Roughly in order of most to least favorite albums from this year:
--------------------------------------------
 
 1. Mutoid Man - _Bleeder_
 2. Future - _DS2_
@@ -50,6 +49,4 @@ Other good albums that I liked but didn't quite make the cut:
 
 All of these albums have been added, in order, to a Spotify playlist for you to enjoy:
 
-<div style="margin:auto;">
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amunsonthedestroyer%3Aplaylist%3A3o0INNKrdfNDDNkPGAKX5Y" width="600" height="400" frameborder="0" allowtransparency="true"></iframe>
-</div>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amunsonthedestroyer%3Aplaylist%3A3o0INNKrdfNDDNkPGAKX5Y" width="300" height="380" frameborder="0" allowtransparency="true" style="margin:auto;"></iframe>
