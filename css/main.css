@@ -184,13 +184,13 @@ code {
 /* Lists
    ========================================================================== */
 
-ul {
+ul, ol {
   margin: 0;
   text-align: left;
 }
 
 @media (min-width: 40rem) {
-  ul { display: inline-block; }
+  ul, ol { display: inline-block; }
 }
 
 /* Links
