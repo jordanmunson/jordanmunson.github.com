@@ -11,7 +11,7 @@ url: "/video-test/"
 Standard HTML5 video element:
 
 <div class="column full">
-  <video preload="none" height="540" width="960" controls>
+  <video height="540" width="960" controls>
     <source src="http://embed.wistia.com/deliveries/a7f4aace9c81d142f0dd901b5f0476e307c667ef/file.mp4" type="video/mp4">
   </video>
 </div>
