@@ -5,5 +5,5 @@ url: "http://jordanmunson.me"
 author: "https://www.facebook.com/jordan.munson"
 
 
-markdown: redcarpet
+markdown: kramdown
 pygments: true
