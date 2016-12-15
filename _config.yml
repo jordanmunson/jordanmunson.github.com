@@ -6,4 +6,4 @@ author: "https://www.facebook.com/jordan.munson"
 
 
 markdown: kramdown
-pygments: true
+highlighter: rouge
