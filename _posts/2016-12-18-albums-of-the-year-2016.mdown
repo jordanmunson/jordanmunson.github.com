@@ -5,6 +5,7 @@ date:   2016-12-30 19:46:14
 categories: blog
 tags: misc
 description: "I listened to a lot of music in 2016. Here are some of my favorites."
+url: "/2015-12-16-albums-of-the-year-2016/"
 image: "https://embed-ssl.wistia.com/deliveries/fee169e37a445a1d8d7540417c3d4952968d3db8.bin"
 ---
 
