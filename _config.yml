@@ -24,7 +24,3 @@ description: "Jordan Munson's work-in-progress personal page."
 permalink: /:categories/:title
 url: "http://jordanmunson.me"
 author: "https://www.facebook.com/jordan.munson"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
